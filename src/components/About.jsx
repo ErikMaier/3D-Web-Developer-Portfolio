@@ -16,11 +16,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, autem
-        est placeat dolor fuga rerum debitis modi voluptate quis totam sapiente
-        alias quasi asperiores soluta dignissimos officiis maiores non
-        distinctio? Officiis, nobis architecto! Recusandae deleniti enim commodi
-        magni modi? Facere!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit nisi et,
+        eligendi error sed reprehenderit ad eos ipsum autem aliquid consequatur
+        odio qui rerum placeat adipisci perspiciatis. Obcaecati quia ex,
+        debitis, nemo mollitia saepe ad placeat enim dignissimos asperiores
+        perspiciatis, magnam laborum consequuntur adipisci fugit perferendis
+        eius inventore quidem deserunt?
       </motion.p>
     </>
   );
